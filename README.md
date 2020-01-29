@@ -1,5 +1,6 @@
 # word-count
 Java CLI application to count the occurrence of each word in a text file. It outputs the result in descending order of count.
+Currently the application only processes plain/text files.
 
 ##### Sample Content of File
 ```
